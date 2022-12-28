@@ -1,0 +1,15 @@
+C:\Users\crisl\source\repos\operadorAritmetico\operadorAritmetico\obj\Debug\net6.0\operadorAritmetico.csproj.AssemblyReference.cache
+C:\Users\crisl\source\repos\operadorAritmetico\operadorAritmetico\obj\Debug\net6.0\operadorAritmetico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisl\source\repos\operadorAritmetico\operadorAritmetico\obj\Debug\net6.0\operadorAritmetico.AssemblyInfoInputs.cache
+C:\Users\crisl\source\repos\operadorAritmetico\operadorAritmetico\obj\Debug\net6.0\operadorAritmetico.AssemblyInfo.cs
+C:\Users\crisl\source\repos\operadorAritmetico\operadorAritmetico\obj\Debug\net6.0\operadorAritmetico.csproj.CoreCompileInputs.cache
+C:\Users\crisl\source\repos\operadorAritmetico\operadorAritmetico\bin\Debug\net6.0\operadorAritmetico.exe
+C:\Users\crisl\source\repos\operadorAritmetico\operadorAritmetico\bin\Debug\net6.0\operadorAritmetico.deps.json
+C:\Users\crisl\source\repos\operadorAritmetico\operadorAritmetico\bin\Debug\net6.0\operadorAritmetico.runtimeconfig.json
+C:\Users\crisl\source\repos\operadorAritmetico\operadorAritmetico\bin\Debug\net6.0\operadorAritmetico.dll
+C:\Users\crisl\source\repos\operadorAritmetico\operadorAritmetico\bin\Debug\net6.0\operadorAritmetico.pdb
+C:\Users\crisl\source\repos\operadorAritmetico\operadorAritmetico\obj\Debug\net6.0\operadorAritmetico.dll
+C:\Users\crisl\source\repos\operadorAritmetico\operadorAritmetico\obj\Debug\net6.0\refint\operadorAritmetico.dll
+C:\Users\crisl\source\repos\operadorAritmetico\operadorAritmetico\obj\Debug\net6.0\operadorAritmetico.pdb
+C:\Users\crisl\source\repos\operadorAritmetico\operadorAritmetico\obj\Debug\net6.0\operadorAritmetico.genruntimeconfig.cache
+C:\Users\crisl\source\repos\operadorAritmetico\operadorAritmetico\obj\Debug\net6.0\ref\operadorAritmetico.dll

@@ -1,0 +1,15 @@
+C:\Users\crisl\source\repos\jogoDePerguntas1\jogoDePerguntas1\bin\Debug\net6.0\jogoDePerguntas1.exe
+C:\Users\crisl\source\repos\jogoDePerguntas1\jogoDePerguntas1\bin\Debug\net6.0\jogoDePerguntas1.deps.json
+C:\Users\crisl\source\repos\jogoDePerguntas1\jogoDePerguntas1\bin\Debug\net6.0\jogoDePerguntas1.runtimeconfig.json
+C:\Users\crisl\source\repos\jogoDePerguntas1\jogoDePerguntas1\bin\Debug\net6.0\jogoDePerguntas1.dll
+C:\Users\crisl\source\repos\jogoDePerguntas1\jogoDePerguntas1\bin\Debug\net6.0\jogoDePerguntas1.pdb
+C:\Users\crisl\source\repos\jogoDePerguntas1\jogoDePerguntas1\obj\Debug\net6.0\jogoDePerguntas1.csproj.AssemblyReference.cache
+C:\Users\crisl\source\repos\jogoDePerguntas1\jogoDePerguntas1\obj\Debug\net6.0\jogoDePerguntas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisl\source\repos\jogoDePerguntas1\jogoDePerguntas1\obj\Debug\net6.0\jogoDePerguntas1.AssemblyInfoInputs.cache
+C:\Users\crisl\source\repos\jogoDePerguntas1\jogoDePerguntas1\obj\Debug\net6.0\jogoDePerguntas1.AssemblyInfo.cs
+C:\Users\crisl\source\repos\jogoDePerguntas1\jogoDePerguntas1\obj\Debug\net6.0\jogoDePerguntas1.csproj.CoreCompileInputs.cache
+C:\Users\crisl\source\repos\jogoDePerguntas1\jogoDePerguntas1\obj\Debug\net6.0\jogoDePerguntas1.dll
+C:\Users\crisl\source\repos\jogoDePerguntas1\jogoDePerguntas1\obj\Debug\net6.0\refint\jogoDePerguntas1.dll
+C:\Users\crisl\source\repos\jogoDePerguntas1\jogoDePerguntas1\obj\Debug\net6.0\jogoDePerguntas1.pdb
+C:\Users\crisl\source\repos\jogoDePerguntas1\jogoDePerguntas1\obj\Debug\net6.0\jogoDePerguntas1.genruntimeconfig.cache
+C:\Users\crisl\source\repos\jogoDePerguntas1\jogoDePerguntas1\obj\Debug\net6.0\ref\jogoDePerguntas1.dll

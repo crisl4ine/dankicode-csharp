@@ -1,0 +1,15 @@
+C:\Users\crisl\source\repos\construtor\construtor\bin\Debug\net6.0\construtor.exe
+C:\Users\crisl\source\repos\construtor\construtor\bin\Debug\net6.0\construtor.deps.json
+C:\Users\crisl\source\repos\construtor\construtor\bin\Debug\net6.0\construtor.runtimeconfig.json
+C:\Users\crisl\source\repos\construtor\construtor\bin\Debug\net6.0\construtor.dll
+C:\Users\crisl\source\repos\construtor\construtor\bin\Debug\net6.0\construtor.pdb
+C:\Users\crisl\source\repos\construtor\construtor\obj\Debug\net6.0\construtor.csproj.AssemblyReference.cache
+C:\Users\crisl\source\repos\construtor\construtor\obj\Debug\net6.0\construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisl\source\repos\construtor\construtor\obj\Debug\net6.0\construtor.AssemblyInfoInputs.cache
+C:\Users\crisl\source\repos\construtor\construtor\obj\Debug\net6.0\construtor.AssemblyInfo.cs
+C:\Users\crisl\source\repos\construtor\construtor\obj\Debug\net6.0\construtor.csproj.CoreCompileInputs.cache
+C:\Users\crisl\source\repos\construtor\construtor\obj\Debug\net6.0\construtor.dll
+C:\Users\crisl\source\repos\construtor\construtor\obj\Debug\net6.0\refint\construtor.dll
+C:\Users\crisl\source\repos\construtor\construtor\obj\Debug\net6.0\construtor.pdb
+C:\Users\crisl\source\repos\construtor\construtor\obj\Debug\net6.0\construtor.genruntimeconfig.cache
+C:\Users\crisl\source\repos\construtor\construtor\obj\Debug\net6.0\ref\construtor.dll

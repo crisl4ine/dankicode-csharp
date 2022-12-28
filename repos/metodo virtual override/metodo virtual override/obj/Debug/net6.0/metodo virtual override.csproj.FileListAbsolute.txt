@@ -1,0 +1,15 @@
+C:\Users\crisl\source\repos\metodo virtual override\metodo virtual override\bin\Debug\net6.0\metodo virtual override.exe
+C:\Users\crisl\source\repos\metodo virtual override\metodo virtual override\bin\Debug\net6.0\metodo virtual override.deps.json
+C:\Users\crisl\source\repos\metodo virtual override\metodo virtual override\bin\Debug\net6.0\metodo virtual override.runtimeconfig.json
+C:\Users\crisl\source\repos\metodo virtual override\metodo virtual override\bin\Debug\net6.0\metodo virtual override.dll
+C:\Users\crisl\source\repos\metodo virtual override\metodo virtual override\bin\Debug\net6.0\metodo virtual override.pdb
+C:\Users\crisl\source\repos\metodo virtual override\metodo virtual override\obj\Debug\net6.0\metodo virtual override.csproj.AssemblyReference.cache
+C:\Users\crisl\source\repos\metodo virtual override\metodo virtual override\obj\Debug\net6.0\metodo virtual override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisl\source\repos\metodo virtual override\metodo virtual override\obj\Debug\net6.0\metodo virtual override.AssemblyInfoInputs.cache
+C:\Users\crisl\source\repos\metodo virtual override\metodo virtual override\obj\Debug\net6.0\metodo virtual override.AssemblyInfo.cs
+C:\Users\crisl\source\repos\metodo virtual override\metodo virtual override\obj\Debug\net6.0\metodo virtual override.csproj.CoreCompileInputs.cache
+C:\Users\crisl\source\repos\metodo virtual override\metodo virtual override\obj\Debug\net6.0\metodo virtual override.dll
+C:\Users\crisl\source\repos\metodo virtual override\metodo virtual override\obj\Debug\net6.0\refint\metodo virtual override.dll
+C:\Users\crisl\source\repos\metodo virtual override\metodo virtual override\obj\Debug\net6.0\metodo virtual override.pdb
+C:\Users\crisl\source\repos\metodo virtual override\metodo virtual override\obj\Debug\net6.0\metodo virtual override.genruntimeconfig.cache
+C:\Users\crisl\source\repos\metodo virtual override\metodo virtual override\obj\Debug\net6.0\ref\metodo virtual override.dll
